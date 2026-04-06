@@ -1,5 +1,5 @@
 /* ============================================================
-   ShopNova — Complete JavaScript
+   Shop-PAA — Complete JavaScript
    Carousel, Cart, Dropdowns, Animations, Products
    ============================================================ */
 
